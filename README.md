@@ -2,11 +2,15 @@ How to run project:
 
  step 1: clone these github repo in your local IDE (Like VS code,etc...)
  
- step 2: Then in terminal ,Enter cmd as - cd server
+ step 2: Then in terminal ,
+ 
+                 Enter cmd as - cd server
                  then - npm install (or) npm i
                  then - npm start
                  
- step 3: Open another terminal for client as - cd client
+ step 3: Open another terminal for client 
+                 
+                 as - cd client
                  then - npm i (or) npm install
                  then - npm run dev
                  
