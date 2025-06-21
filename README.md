@@ -10,7 +10,7 @@ How to run project:
  Tech Stack Used:
     For Frontend(Javascript) : latest version of Next js (React) with css styling with responsiveness according to the screen.
     For Backend(Javascript) : With Node + Express js
-    Storage : Local Variable in backend for get,post and delete of data of products
+    Storage : Local Variable in backend for get,post and deletion of data from products
 
 
 Note :
